@@ -114,38 +114,6 @@
 
 ---
 
-## 🏆 <em>Trophies</em>
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashhg2007&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
-## 💡 <em>Did You Know?</em>
-
-<div align="center">
-
-[![Wakatime](https://wakatime.com/badge/user/akashhg2007.svg?style=for-the-badge)](https://wakatime.com/@akashhg2007)
-
-</div>
-
----
-
-## 🔥 <em>Contribution Snake</em>
-
-<div align="center">
-
-[![snake gif](https://raw.githubusercontent.com/akashhg2007/akashhg2007/output/github-contribution-grid-snake-dark.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📫 <em>Let's Connect</em>
 
 <div align="center">
@@ -219,16 +187,6 @@
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🐍 <em>Snake Animation</em>
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/akashhg2007/akashhg2007/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
