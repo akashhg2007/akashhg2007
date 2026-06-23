@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=Akash&backgroundColor=7c3aed" width="150" style="border-radius: 50%; border: 4px solid #7c3aed;" alt="Akash Avatar" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;CS+Engineering+Student;Open+Source+Enthusiast;Always+Learning+%E2%9C%A8;Building+Cool+Projects+%F0%9F%9A%80&duration=2000&separator=%7C&size=22)](https://git.io/typing-svg)
 
 [![followers](https://img.shields.io/github/followers/akashhg2007?label=Followers&style=social)](https://github.com/akashhg2007?tab=followers)
