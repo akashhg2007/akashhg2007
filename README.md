@@ -1,76 +1,147 @@
-# Hi, I'm Akash H G 👋
+<h1 align="center">Hey there, I'm <a href="https://github.com/akashhg2007">Akash H G</a> <img src="https://raw.githubusercontent.com/Shahed955/Shahed955/main/wave.gif" width="30px"></h1>
 
-🎓 2nd Year Engineering Student | Aspiring Software Engineer
+<p align="center">
+  <em>🎓 2nd Year Computer Science Engineering Student | Aspiring Full-Stack Developer</em>
+</p>
 
-💻 Learning Java | DSA | Backend Development
-
-## 🔭 Currently Working On
-- Building full-stack projects
-- Improving DSA skills in Java
-- Learning cloud deployment
-
-## 🌱 Learning
-- Java & Spring Boot
-- Data Structures & Algorithms
-- AWS & Cloud Services
-- React & Next.js
-
-## 💬 Ask Me About
-- Java, Python, JavaScript
-- Web Development
-- DSA Problem Solving
-
-## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashhga@gmail.com)
-
-## 🛠️ Tech Stack
-
-**Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend:**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashhg2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akashhg2007&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashhg2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=akashhg2007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 📈 Visitor Count
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=akashhg2007&icon=0&color=0)
+<p align="center">
+  <a href="https://github.com/akashhg2007">
+    <img src="https://github-readme-stats.vercel.app/api?username=akashhg2007&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Akash's GitHub Stats">
+  </a>
+</p>
 
 ---
 
-⭐ From [akashhg2007](https://github.com/akashhg2007)
+### 🚀 <em>Turning ideas into code, and code into solutions.</em>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎯 **Aspiring Software Engineer** with a passion for building scalable and efficient applications.
+- 💡 Currently exploring **Full-Stack Development** with a focus on **Java**, **React**, and **Node.js**.
+- 🔍 Solving problems on **LeetCode** & **HackerRank** to sharpen my **DSA** skills.
+- ☁️ Diving into **Cloud Computing** with **AWS** and **Firebase**.
+- 🌱 Always learning, always growing — currently mastering **Spring Boot** and **Next.js**.
+- 🤝 Open to **collaborations**, **internships**, and **open-source contributions**.
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🛒 **E-Commerce App** | Full-stack e-commerce platform with auth, cart & payments | React, Node.js, MongoDB |
+| 📝 **Blog CMS** | Content management system with markdown support | Next.js, Firebase |
+| 💬 **Real-time Chat** | WebSocket-based chat application | Node.js, Socket.io, React |
+
+> *More projects coming soon! Check out my [profile](https://github.com/akashhg2007?tab=repositories) for all repos.*
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & IDE
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=akashhg2007&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashhg2007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=akashhg2007&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akashhg2007&theme=radical&no-frame=false&no-bg=true&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashhg2007&theme=radical&hide_border=true&color=7c3aed" alt="Activity Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:akashhga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/akashhg2007">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/akashhg2007">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/akashhg2007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashhg2007&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>💬 "Code is like humor. When you have to explain it, it's bad."</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plarpoon/Twitter-Icons-for-Github/main/gif/Developer.gif" width="200" alt="Coding GIF" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <b><a href="https://github.com/akashhg2007">Akash H G</a></b> | Made with ❤️ and lots of ☕
+</p>
