@@ -2,8 +2,11 @@ name: Daily Auto Push
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight UTC every day
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 2 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch:
 
 jobs:
   daily-update:
@@ -28,5 +31,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add DAILY.md
-          git diff --staged --quiet || git commit -m "🔄 Daily update: $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "🔄 Update: $(date +'%Y-%m-%d %H:%M UTC')"
           git push
