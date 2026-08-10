@@ -24,7 +24,7 @@
 
 ---
 
-🎓 2nd Year CS Engineering Student
+🎓 3rd Year CS Engineering Student
 
 💻 Full-Stack Developer
 
