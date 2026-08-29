@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "akashhga@gmail.com"
+          git config --local user.name "akashhg2007"
           git add DAILY.md
           git diff --staged --quiet || git commit -m "🔄 Update: $(date +'%Y-%m-%d %H:%M UTC')"
           git push
