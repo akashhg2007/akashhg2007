@@ -44,7 +44,7 @@
 
 ### 🎯 Who Am I?
 
-I am a passionate **Software Engineering Student** with a deep love for **Backend Development** and **System Architecture**. Currently in my 2nd year of Computer Science Engineering, I am constantly exploring new technologies and building projects that solve real-world problems.
+I am a passionate **Software Engineering Student** with a deep love for **Backend Development** and **System Architecture**. Currently in my 3rd year of Computer Science Engineering, I am constantly exploring new technologies and building projects that solve real-world problems.
 
 My journey in tech started with curiosity and has evolved into a relentless pursuit of excellence. I believe in **continuous learning**, **practical experience**, and building **scalable solutions** that make a difference.
 
